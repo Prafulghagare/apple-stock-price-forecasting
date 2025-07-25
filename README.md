@@ -7,8 +7,8 @@ This project performs time series analysis and ARIMA forecasting on Apple Inc. (
 ## 🔧 Tools Used
 
 <p align="left">
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/512/r-project.png" alt="R" width="40" height="40"/>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/512/rstudio.png" alt="RStudio" width="40" height="40"/>
   </a>
 </p>
 
@@ -25,9 +25,7 @@ This project performs time series analysis and ARIMA forecasting on Apple Inc. (
 
 ## 📦 Requirements
 
-Make sure you have R installed, then run the following to install required packages:
+Make sure you have **RStudio** installed, then run the following in your console to install required packages:
 
 ```r
 install.packages(c("quantmod", "forecast", "tseries", "lubridate"))
-
-
